@@ -1,5 +1,5 @@
 WELCOME 
 
 
-AUTHOR:Thomas
+AUTHOR:Thomas Huber
 Twitter: @Thomastwitter
