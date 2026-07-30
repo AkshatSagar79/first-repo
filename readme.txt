@@ -3,4 +3,4 @@ WELCOME TO THE "GIT FOR BEGINNERS"
 
 AUTHOR:Thomas Huber
 Twitter: @Thomastwitter
-Website: www.thomashuber.com
+Website: https://www.thomashuber.com
